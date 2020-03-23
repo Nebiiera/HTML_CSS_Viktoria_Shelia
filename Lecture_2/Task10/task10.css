@@ -1,0 +1,23 @@
+.ell-border{
+  border: solid 1px;
+  border-radius: 50px/15px;
+  width: 200px;
+  height: 150px;
+  background: red;
+}
+
+.ell-border2{
+  border: solid 1px;
+  border-radius: 15px/50px;
+  width: 200px;
+  height: 150px;
+  background: red;
+}
+
+.ell-border3{
+  border: solid 1px;
+  border-radius: 50%;
+  width: 200px;
+  height: 150px;
+  background: red;
+}

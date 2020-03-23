@@ -1,0 +1,29 @@
+.p1{
+	text-align: center;
+	font-weight: bold;
+	font-size: 2em;
+}
+
+.p2{
+	text-align: right;
+	font-weight: bold;
+	font-size: 1.5em;
+}
+
+.p3{
+	border-style: hidden;
+	border-bottom: solid red 8px;
+	width: 400px;
+}
+.p4{
+	text-align: right;
+	font-weight: bold;
+	font-size: 1.5em;
+}
+
+.p5{
+	border-style: hidden;
+	border-bottom: solid blue 8px;
+	width: 400px
+
+}
