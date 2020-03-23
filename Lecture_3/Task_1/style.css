@@ -1,0 +1,44 @@
+body{
+    background-image: url(photo1.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.h1{
+    text-align: center;
+}
+
+.green{
+    color: green;
+}
+
+.blue{
+    color: blue;
+}
+
+ul{
+    font-size: 2em;
+}
+
+.photos{
+    width: 1700px;
+    margin: auto;
+    text-align: center;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    margin-left: 40px;
+}
+
+.footer{
+    text-align: center;
+    font-size: 2em;
+    margin-top: 150px;
+}
+
+.copy{
+    margin-right: 100px;
+}
