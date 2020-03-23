@@ -1,0 +1,36 @@
+p{
+  text-align: center;
+}
+
+table{
+  margin: auto;
+  border: solid 1px black;
+  width: 700px;
+  height: 300px;
+}
+
+table td{
+  border: solid 1px black;
+}
+
+.tr1{
+  height: 60px;
+}
+.tr2{
+  height: 35px;
+}
+.tr3{
+  height: 35px;
+}
+.tr4{
+  height: 35px;
+}
+.tr5{
+  height: 35px;
+}
+.tr6{
+  height: 35px;
+}
+.tr7{
+  height: 35px;
+}
