@@ -1,0 +1,41 @@
+/* p {
+	background-color: pink;
+}
+.p1{
+	font-size: 2em;
+} */
+
+
+.p1{
+	border-style: solid;
+	border-width: 10px;
+	border-color: green;
+}
+
+.p2{
+	border:dotted 10px red;
+}
+
+.p3{
+	border-left:solid 40px green;
+	border-top:solid 40px blue;
+	border-right:solid 40px red;
+	border-bottom:solid 40px green;
+}
+
+p {
+	color:red;
+	text-align: center;
+	/* text-decoration: line-through; */
+	text-indent: 200px;
+	width: 700px;
+	border: solid 3px pink;
+}
+
+.textF{
+	font-size: 2em;
+	color: blue;
+	font-style: italic;
+	font-weight: bold;
+	text-decoration: underline;
+}
