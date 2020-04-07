@@ -1,0 +1,42 @@
+table{
+  border: 2px solid black;
+  width: 463px;
+  height: 463px;
+  margin: auto;
+}
+td{
+  border: 2px solid black;
+}
+.div1{
+  border: 1px solid black;
+  width: 900px;
+  height: 600px;
+  margin: auto;
+}
+.tr1{
+  height: 50px;
+  background-color: #7fffd4;
+}
+.tr2{
+  width: 50px;
+  background-color: #deb887;
+}
+.td1, .td2, .td3, .td4{
+  width: 50px;
+  height: 50px;
+}
+.td1{
+  background-color: red;
+}
+.td2{
+  background-color: blue;
+}
+.td3{
+  background-color: green;
+}
+.td4{
+  background-color: yellow;
+}
+h1{
+  text-align: center;
+}
