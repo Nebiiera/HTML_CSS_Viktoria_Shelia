@@ -1,0 +1,400 @@
+.blackmenu{
+	border: solid 1px;
+	width: 100%;
+	height: 200px;
+	background-color: #323534;
+	float: left;
+	position: relative;
+}
+.green_line{
+	width: 1335px;
+	background-color: #8eb53c;
+	height: 8px;
+	border: 0px solid;
+	position: absolute;
+	top: 202px;
+}
+h1{
+	color: yellow;
+}
+.div3{
+	width: 75%;
+	float: right;
+	color: silver;
+	position: absolute;
+	left: 300px;
+}
+.button1, .button2, .button3, .button4, .button5{
+	position: relative;
+	display: inline;
+	padding: 20px;
+	bottom: -27px;
+	left: 200px;
+	margin: 2px;
+}
+
+.button1{
+	border: 0px solid;
+	background-color: #545454;
+	color: white;
+	font-weight: bold;
+	border-radius: 10px 10px 0px 0px;
+}
+.button2{
+	border: 0px solid;
+	background-color: #bae361;
+	font-weight: bold;
+	color: white;
+	border-radius: 10px 10px 0px 0px;
+}
+
+.button3{
+	border: 0px solid;
+	background-color: #545454;
+	font-weight: bold;
+	color: white;
+	border-radius: 10px 10px 0px 0px;
+}
+.button4{
+	border: 0px solid;
+	background-color: #545454;
+	font-weight: bold;
+	color: white;
+	border-radius: 10px 10px 0px 0px;
+}
+.button5{
+	border: 0px solid;
+	background-color: #545454;
+	font-weight: bold;
+	color: white;
+	border-radius: 10px 10px 0px 0px;
+}
+img{
+	width: 830px;
+	height: 190px;
+	margin: auto;
+	position: relative;
+	bottom: 190px;
+	left: 10px;
+}
+.text{
+	position: relative;
+	top: 200px;
+	margin: auto;
+	left: -40px;
+	width: 50%;
+}
+.footer ul{
+	list-style: none;
+}
+.useful_links ul{
+	list-style: none;
+}
+.useful_links ul li::before{
+	content: "\2022";
+	color: #90c2ef;
+	font-weight: bold;
+	font-size: 1.5em;
+}
+.news{
+	position: absolute;
+	border: 1px solid #dddddd;
+	float: right;
+	top: 50px;
+	right: -180px;
+	width: 180px;
+	padding: 5px;
+	height: 230px;
+	border-radius: 20px;
+}
+.lastnews{
+	font-size: 1em;
+	margin-left: 10px;
+}
+.lastnews2{
+	font-size: 1em;
+	color: black;
+	margin-left: 10px;
+}
+.useful_links{
+	position: absolute;
+	border: 1px solid #dddddd;
+	float: right;
+	top: 305px;
+	right: -180px;
+	width: 180px;
+	padding: 5px;
+	height: 230px;
+	border-radius: 20px;
+}
+.useful_linksgeo{
+	color: black;
+	font-size: 1.1em;
+}
+a:link{
+	color: #dbd585
+}
+.search{
+	position: absolute;
+	border: 1px solid #dddddd;
+	float: right;
+	top: 560px;
+	right: -180px;
+	width: 160px;
+	padding: 10px;
+	height: 110px;
+	border-radius: 20px;
+	font-size: 1.5em;
+}
+.box{
+	margin-top: 20px;
+	border: 1px solid #dddddd;
+	font-size: 0.6em;
+	padding: 5px;
+	width: 90px;
+}
+.icon{
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 120px;
+	top: 200px;
+}
+.green_line_2{
+	width: 1340px;
+	background-color: #8eb53c;
+	height: 8px;
+	border: 0px solid;
+	position: relative;
+	top: 2750px;
+}
+.footer{
+	border: solid 0px;
+	width: 100%;
+	height: 150px;
+	background-color: #323534;
+	float: left;
+	position: absolute;
+	top: 2800px;
+	text-align: center;
+}
+.footer ul li {
+	display: inline;
+	list-style: none;
+	color: gray;
+	margin-left: 10px;
+}
+.footer li{
+	border-right: 1px solid gray;
+	margin-left: 2px;
+}
+.footer li:last-child{
+	border-right: none;
+}
+
+.examples{
+  position: absolute;
+  top: 30px;
+  color: gray;
+  font-family: sans-serif;
+	width: 90%;
+}
+h3{
+  font-weight: normal;
+  color: black;
+}
+.headings{
+  color: blue;
+  font-size: 1.5em;
+}
+.head1{
+  color: black;
+  font-size: 1.5em;
+}
+.head2{
+  color: blue;
+  font-size: 1.3em;
+}
+.head3{
+  color: black;
+  font-size: 1.1em;
+}
+.head4{
+  text-transform: uppercase;
+  color: blue;
+  font-size: 0.8em;
+}
+.head5{
+  font-size: 0.7em;
+}
+.head6{
+  text-transform: uppercase;
+  font-size: 0.8em;
+}
+.head7{
+  color: blue;
+  font-size: 1.5em;
+}
+.italic{
+  font-style: italic;
+}
+.examples ul{
+  list-style: none;
+}
+.examples ul li{
+  color: black;
+  position: relative;
+  left: -40px;
+}
+.examples ul li::before{
+  content: "\2022";
+	color: #90c2ef;
+	font-weight: bold;
+	font-size: 1.5em;
+}
+.examples ol li{
+  color: black;
+  position: relative;
+  left: -20px;
+}
+.pic1{
+  width: 300px;
+  position: relative;
+  top: 20px;
+  float: left;
+}
+.lorem{
+  position: relative;
+  left: 20px;
+}
+.pic2{
+  position: relative;
+  width: 300px;
+  top: 100px;
+  left: -50px;
+}
+.pic3{
+  width: 300px;
+  position: relative;
+  float: right;
+  top: 5px;
+}
+.lorem2{
+  position: relative;
+  top: 150px;
+  width: 300px;
+}
+.tables_p{
+  position: relative;
+  top: 250px;
+  font-size: 1.5em;
+  color: blue;
+}
+.tables_t{
+  position: relative;
+  top: 230px;
+}
+table{
+  border: 1px solid white;
+  width: 800px;
+  height: 200px;
+  position: relative;
+  top: 150px;
+}
+td{
+  border: 1px solid white;
+}
+.item{
+  background-color: #3b3b3b;
+  color: white;
+  font-weight: bold;
+  padding-left: 5px;
+}
+.items{
+  background-color: #e5e5db;
+  color: black;
+  padding-left: 5px;
+}
+.desc{
+  text-align: center;
+  position: relative;
+  bottom: 13px;
+}
+.form{
+  position: relative;
+  color: blue;
+  font-size: 1.5em;
+  top: 140px;
+}
+.field{
+  position: relative;
+  top: 150px;
+  font-size: 1.3em;
+}
+.box1{
+  border: 1px solid gray;
+  position: relative;
+  width: 410px;
+  height: 30px;
+  top: 100px;
+  left: 250px;
+}
+.textarea{
+  position: relative;
+  font-size: 1.3em;
+  top: 100px;
+}
+.box2{
+  position: relative;
+  width: 410px;
+  border: 1px solid gray;
+  height: 200px;
+  left: 250px;
+  top: 45px;
+}
+.checkbox{
+  position: relative;
+  font-size: 1.3em;
+  top: 50px;
+}
+.check_box{
+  border: 1px solid gray;
+  width: 15px;
+  height: 15px;
+  border-radius: 6px;
+  position: relative;
+  left: 249px;
+  top: 3px;
+  background-color: #dedede;
+}
+.dropdown{
+  position: relative;
+  font-size: 1.3em;
+  top: 10px;
+}
+.drop_box{
+  border: 0px solid black;
+  width: 410px;
+  height: 20px;
+  position: relative;
+  left: 240px;
+  bottom: 35px;
+  padding-left: 10px;
+  color: black;
+}
+select{
+  width: 100%;
+  border: solid 1px gray;
+}
+.b_button{
+  border: 1px solid black;
+  background-color: black;
+  color: white;
+  width: 150px;
+  height: 30px;
+  position: relative;
+  top: 20px;
+  left: 260px;
+  text-align: center;
+  padding-top: 10px;
+}
