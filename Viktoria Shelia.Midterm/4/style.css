@@ -1,0 +1,38 @@
+#cont{
+    border: solid 2px black;
+    height: 309px;
+    width: 530px;
+    position: relative;
+    margin: auto;
+}
+#d1,#d2,#d3,#d4, #d5{
+    position: absolute;
+    border: solid 2px black;
+    height: 100px;
+    width: 100px;
+}
+#d1{
+    left: 0;
+    top: 0;
+    background-color: red;
+}
+#d2{
+    right: 0;
+    top: 0;
+    background-color: yellow;
+}
+#d3{
+    right: 0;
+    bottom: 0;
+    background-color: blue;
+}
+#d4{
+    left: 0;
+    bottom: 0;
+    background-color: green;
+}
+#d5{
+    background-color: silver;
+    left: 215px;
+    bottom: 101.5px;
+}

@@ -1,0 +1,35 @@
+#cont {
+    border: solid 1px black;
+    background-color: silver;
+    height: 80px;
+    width: 600px;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+}
+#d1, #d2, #d3 {
+    margin: 10px;
+}
+#d1{
+    border: dashed 4px red;
+    background-color: yellow;
+    height: 50px;
+    width: 100px;
+}
+#d2{
+    border-top: dotted 4px red;
+    border-left: solid 4px green;
+    border-bottom: dashed 4px blue;
+    background-color: yellow;
+    height: 50px;
+    width: 100px;
+}
+#d3{
+    border: solid 20px;
+    margin-top: 20px;
+    border-top-color: red;
+    border-left-color: green;
+    border-right-color: yellow;
+    border-bottom-color: blue;
+    height: 0px;
+}

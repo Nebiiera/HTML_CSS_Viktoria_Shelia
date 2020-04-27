@@ -1,0 +1,30 @@
+table{
+    border: solid 1.5px red;
+    width: 580px;
+    height: 100px;
+    margin: auto;
+    font-size: 12px;
+}
+td{
+    border: solid 1.5px red;
+    box-sizing: border-box;
+    padding: 5px;
+}
+img {
+    width: 130px;
+}
+#s1 {
+    color: green;
+    font-weight: bold;
+}
+#s2{
+    color: blue;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 10px;
+}
+#s3{
+    color: red;
+    text-decoration: underline;
+    font-style: italic;
+}

@@ -1,0 +1,12 @@
+div{
+    color: red;
+    font-size: 2em;
+    border: solid 3px red;
+    background-color: #ecc03e;
+    text-shadow: 4px 4px 5px white;
+    border-radius: 0px 50px;
+    height: 50px;
+    width: 500px;
+    text-align: center;
+    margin: auto;
+}
