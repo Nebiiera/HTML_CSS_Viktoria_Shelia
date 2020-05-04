@@ -1,0 +1,44 @@
+.login{
+	width: 350px;
+	height: 320px;
+	text-align: center;
+	background-color: #ecf0f1;
+	border-left: 1px solid black;
+	border-bottom: 2px solid black;
+	margin: auto;
+}
+h2{
+	padding-top: 20px;
+}
+.username{
+	width: 80%;
+	border: 1px silver solid;
+	border-radius: 5px;
+	height: 30px;
+	color: #878086;
+	padding: 5px;
+}
+
+.password{
+	width: 80%;
+	border: 1px silver solid;
+	border-radius: 5px;
+	height: 30px;
+	color: #878086;
+	padding: 5px;
+}
+
+.signin{
+	width: 83%;
+	background-color: #e74c3c;
+	color: white;
+	font-weight: bold;
+	border: 1px silver solid;
+	border-radius: 5px;
+	height: 30px;
+}
+p{
+	text-decoration: underline;
+	color: #55a3dd;
+	font-size: 0.8em;
+}
