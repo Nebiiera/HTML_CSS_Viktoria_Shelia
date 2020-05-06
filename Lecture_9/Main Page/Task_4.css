@@ -1,0 +1,75 @@
+body{
+  background-image: radial-gradient(white, yellow);
+}
+table{
+  border: 1px solid black;
+  width: 800px;
+  min-height: 400px;
+  margin: auto;
+}
+
+td{
+  border: 1px solid silver;
+}
+.img1{
+  width: 802px;
+  height: 250px;
+}
+.pic2{
+  width: 200px;
+  height: 550px;
+}
+
+.photo2{
+  float: right;
+}
+.photo3{
+  width: 400px;
+  height: 300px;
+  float: left;
+  margin-right: 5px;
+  margin-top: 2px;
+}
+.main{
+  width: 25%;
+  height: 40px;
+  text-align: center;
+  background-color: #ffff80;
+}
+.registration{
+  text-align: center;
+  width: 25%;
+  background-color: #ffff00;
+}
+.login{
+  text-align: center;
+  width: 25%;
+  background-color: #f7bb09;
+}
+.contact{
+  text-align: center;
+  width: 25%;
+  background-color: #f79209;
+}
+a:hover{
+  color: blue;
+}
+a{
+  color: green;
+}
+.main_text{
+  font-size: 0.9em;
+  padding: 10px;
+  min-height: 50px;
+}
+strong{
+  text-decoration: underline;
+  font-size: 1.2em;
+}
+.copyright{
+  text-align: center;
+  background-image: linear-gradient(to right, white, #f79209);
+}
+.html, .html5, .css, .css3, .photoshop, .dreamWeaver, .other{
+  height: 50px;
+}

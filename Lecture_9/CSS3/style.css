@@ -1,0 +1,68 @@
+body{
+  background-image: radial-gradient(white, yellow);
+}
+table{
+  border: 1px solid black;
+  width: 800px;
+  min-height: 400px;
+  margin: auto;
+  position: relative;
+}
+
+td{
+  border: 1px solid silver;
+}
+.img1{
+  width: 802px;
+  height: 250px;
+}
+.pic2{
+  width: 200px;
+  height: 550px;
+}
+
+.main{
+  width: 25%;
+  height: 40px;
+  text-align: center;
+  background-color: #ffff80;
+}
+.registration{
+  text-align: center;
+  width: 25%;
+  background-color: #ffff00;
+}
+.login{
+  text-align: center;
+  width: 25%;
+  background-color: #f7bb09;
+}
+.contact{
+  text-align: center;
+  width: 25%;
+  background-color: #f79209;
+}
+a:hover{
+  color: blue;
+}
+a{
+  color: green;
+}
+.copyright{
+  text-align: center;
+  background-image: linear-gradient(to right, white, #f79209);
+}
+.html, .html5, .css, .css3, .photoshop, .dreamWeaver, .other{
+  height: 50px;
+}
+.main_box{
+  padding: 10px;
+}
+p{
+  font-size: 1.5em;
+  font-weight: bold;
+}
+.text{
+  position: relative;
+  bottom: 330px;
+}
