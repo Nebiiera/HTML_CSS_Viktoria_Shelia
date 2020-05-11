@@ -1,0 +1,73 @@
+@font-face{
+    font-family: unicode;
+    src: url(3d_unicode.ttf);
+}
+
+.container{
+    border: 2px solid black;
+    background-color: silver;
+    margin: auto;
+    width: 800px;
+    min-height: 100px;
+}
+.box1{
+    background-color: transparent;
+    width: 600px;
+    height: 50px;
+    text-align: center;
+    padding: 25px;
+    border: inherit;
+    margin: 25px 75px;
+}
+.box1 span{
+    font-family: unicode;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 26px;
+    margin: auto;
+}
+
+@font-face{
+    font-family: fonts2;
+    src: url(bpg_extrasquare_mtavruli_2009.ttf);
+}
+
+.box2{
+    background-color: yellow;
+    width: 600px;
+    height: 50px;
+    text-align: center;
+    padding: 25px;
+    border: inherit;
+    margin: 25px 75px;
+}
+
+.box2 span{
+    font-family: fonts2;
+    font-weight: bold;
+    font-size: 16px;
+    font-style: italic;
+    margin: auto;
+}
+
+@font-face{
+    font-family: fonts3;
+    src: url(bpg_nuskha_modern.ttf);
+}
+
+.box3{
+    background-color: red;
+    width: 600px;
+    height: 50px;
+    text-align: center;
+    padding: 25px;
+    border: inherit;
+    margin: 25px 75px;
+}
+
+.box3 span{
+    font-family: fonts3;
+    font-weight: bold;
+    font-size: 16px;
+    margin: auto;
+}
