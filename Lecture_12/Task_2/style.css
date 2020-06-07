@@ -1,0 +1,53 @@
+.flex-container{
+    margin: auto;
+    width: 650px;
+    height: 500px;
+}
+
+.flex-container > div{
+    display: flex;
+    flex-direction: row;
+}
+
+.first{
+    justify-content: space-between;
+}
+
+.second{
+    justify-content: flex-start;
+}
+
+.flex-container > div > div{
+    background-color: #99cf1c;
+    border: 5px solid black;
+    padding: 20px;
+    height: 35px;
+    margin: 10px;
+}
+
+.d1{
+    flex-basis: 20px;
+}
+
+.d2{
+    flex-basis: 360px;
+}
+
+.d3{
+    flex-basis: 20px;
+}
+
+.d4, .d7 {
+    flex-grow: 15;
+}
+
+.d5, .d8, .d11, .d13 {
+    flex-grow: 1;
+}
+.d6, .d9, .d10, .d12, .d14 {
+    flex-grow: 4;
+}
+
+.d7{
+    order: 3;
+}

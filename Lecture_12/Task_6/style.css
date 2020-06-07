@@ -1,0 +1,53 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 750px;
+    height: 350px;
+    margin: auto;
+    background-image: url(bg.jpg);
+
+}
+
+.container > div{
+    display: flex;
+    flex-direction: row;
+}
+
+.container > div > div{
+    background-color: white;
+    border: solid 1px silver;
+    padding: 13px;
+    color: silver;
+    text-align: center;
+    font-size: 10px;
+    border-radius: 8px;
+    margin: auto 10px 15px 10px;
+}
+
+.container1 {
+    margin-top: 15px;
+}
+.d1, .d2, .d3 {
+    flex-grow: 3;
+}
+.d4, .d5 {
+    flex-grow: 1;
+}
+.d6, .d7, .d8, .d9 {
+    flex-grow: 4;
+}
+.d10, .d11, .d12, .d13, .d14, .d15 {
+    flex-grow: 6;
+}
+.d16 {
+    flex-grow: 8.5;
+}
+.d17, .d18 {
+    flex-grow: 2;
+}
+.d19, .d21 {
+    flex-grow: 1;
+}
+.d20 {
+    flex-grow: 30;
+}
